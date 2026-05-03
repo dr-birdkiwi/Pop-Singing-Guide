@@ -5,6 +5,7 @@ export default defineConfig({
   description: "A reference companion for the serious returning learner",
   base: '/Pop-Singing-Guide/',
   themeConfig: {
+    siteTitle: 'Pop Singing Guide',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Start Reading', link: '/intro' },

@@ -1,0 +1,11 @@
+html, body {
+  overflow-x: hidden;
+}
+
+.VPContent {
+  overflow-x: hidden;
+}
+
+.VPDoc .content {
+  max-width: 100% !important;
+}
