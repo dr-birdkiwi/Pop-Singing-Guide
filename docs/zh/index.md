@@ -24,7 +24,7 @@ features:
     details: 胸声、头声、假声、换声点，以及将混声发展为流行演唱核心引擎的方法。
     link: /part3
   - title: 第四部分 — 气息与力量
-    details: 举重运动员式支撑、身体锚定（anchoring），以及如何避免过度换气的陷阱。
+    details: 举重运动员式支撑（appoggio）、身体锚定（anchoring），以及如何避免吸气过量的陷阱。
     link: /part4
   - title: 第五部分 — 风格
     details: 颤音、气泡音、即兴花腔（run/riff）、辅音节省、风格性气息感与装饰音。
@@ -38,7 +38,7 @@ features:
   - title: 第八部分 — 嗓音健康
     details: 补水、睡眠、胃酸反流、过敏、疲劳嗓音与受损嗓音的区别，以及何时就医。
     link: /part8
-  - title: 第九部分 — 几句实在话
+  - title: 第九部分 — 几句肺腑之言
     details: 关于老师、进步的节奏、找到自己的声音，以及这门技艺的本质。
     link: /part9
 ---
