@@ -1,6 +1,6 @@
 # Part 3: Registers and Mix
 
-## 3.1 What Registers Actually Are
+## 3.1 What Registers Actually Are {#s3-1}
 
 This section needs an honest disclaimer up front: **registers are messier in reality than in pedagogy.**
 
@@ -63,7 +63,7 @@ The very lowest register, below chest voice. Loose thick folds, very low pressur
 
 The very highest register, above head voice. Mariah Carey's signature high notes. Most singers don't use this and don't need to.
 
-## 3.2 The Break — and What to Do About It
+## 3.2 The Break — and What to Do About It {#s3-2}
 
 The **break** is the most common frustration in pop singing. It's the abrupt flip between chest voice and head voice that happens at the upper passaggio.
 
@@ -81,7 +81,7 @@ Two common bad strategies:
 
 The third option — and the right one — is to develop **mix.**
 
-## 3.3 Mix — The Engine of Pop
+## 3.3 Mix — The Engine of Pop {#s3-3}
 
 **Mix is the coordination that lets you ascend smoothly through your passaggio with continuous tone, blending features of chest and head voice in varying ratios.**
 
@@ -137,7 +137,7 @@ Sing "nay" on a low note, then "nay" an octave above, alternating. Move up by ha
 
 Mix usually takes months to develop, not weeks. Be patient.
 
-## 3.4 The High Belt — A Head-Mix in a Chest Costume
+## 3.4 The High Belt — A Head-Mix in a Chest Costume {#s3-4}
 
 This section deserves careful attention because it contradicts a lot of intuitive thinking about belting.
 
@@ -172,7 +172,7 @@ The general rule: the higher the absolute pitch relative to your voice type's ch
 
 Don't fixate on this anatomically. The pedagogical point is what matters: **don't try to drag chest up to a high C. Build mix instead. The belt sound will come.**
 
-## 3.5 Pure Head Voice and Falsetto in Pop
+## 3.5 Pure Head Voice and Falsetto in Pop {#s3-5}
 
 A common mistake is dismissing pure head voice or falsetto as "too classical" for pop. It isn't.
 

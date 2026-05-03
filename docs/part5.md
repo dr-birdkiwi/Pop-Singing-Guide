@@ -4,7 +4,7 @@ Technical foundation gets you to the door of pop singing. *Style* is what's behi
 
 But — and this is important — stylistic vocabulary without clean technique ends in vocal nodules. Both layers are non-negotiable.
 
-## 5.1 Vibrato — A Dial, Not a Default
+## 5.1 Vibrato — A Dial, Not a Default {#s5-1}
 
 Vibrato is the gentle pitch oscillation in a sustained note. It's typically 5–7 oscillations per second when free and healthy.
 
@@ -40,7 +40,7 @@ Record yourself singing a sustained note with vibrato. Listen back. Is it even? 
 
 If your vibrato is uneven, this is a teacher conversation — vibrato problems usually stem from imbalanced support or laryngeal tension, and the fix is rarely "practice vibrato more."
 
-## 5.2 Vocal Fry — and Why It Needs a Pressure Shift
+## 5.2 Vocal Fry — and Why It Needs a Pressure Shift {#s5-2}
 
 Vocal fry is the low, crackly, creaky sound at the bottom of your range — often heard at the ends of sentences in casual speech, and used extensively as a stylistic element in contemporary pop (Billie Eilish, Halsey, much of contemporary radio).
 
@@ -72,7 +72,7 @@ This is a learned coordination — your body has to learn to shift between press
 
 **Caveat: don't over-use fry.** It's a stylistic color, not a default mode of singing. Constant fry — especially pressed, effortful fry — can be a contributor to vocal fatigue and, in extreme cases, vocal fold lesions. Ask your teacher about your specific use of fry.
 
-## 5.3 Runs and Riffs
+## 5.3 Runs and Riffs {#s5-3}
 
 **Runs** are fast melodic passages — sequences of notes sung quickly on a single syllable. **Riffs** are short ornamental decorations around a melodic line. Mariah Carey, Whitney Houston, Beyoncé, Christina Aguilera — modern pop and R&B is built on this kind of vocal ornamentation.
 
@@ -99,7 +99,7 @@ Speed comes from accuracy, not the other way around. Trying to sing runs fast be
 
 **A useful note:** runs are not mandatory in pop. Plenty of great pop singers don't use them. If they don't appeal to you or your voice, that's fine. They're a tool, not a requirement.
 
-## 5.4 Consonant Economy
+## 5.4 Consonant Economy {#s5-4}
 
 A subtle but important principle: **speech is consonant-driven; singing is vowel-driven.**
 
@@ -128,7 +128,7 @@ Particular consonants to watch:
 - **S, Z**: don't linger — they read as sibilant on a microphone
 - **W, Y**: sometimes treated as semivowels; keep them quick
 
-## 5.5 Stylistic Breathiness vs. Air Leak
+## 5.5 Stylistic Breathiness vs. Air Leak {#s5-5}
 
 Already touched on, but worth dedicated treatment because so many beginners get this wrong.
 
@@ -140,7 +140,7 @@ The same listener-end sound can come from either — but the underlying mechanic
 
 If your voice tires quickly when you sing, especially with airiness in the tone, you may have habitual air leak rather than chosen breathiness. This is a teacher conversation — they can help you build fold closure efficiency without losing stylistic breathiness as an option.
 
-## 5.6 Pitch Slides and Ornamentation
+## 5.6 Pitch Slides and Ornamentation {#s5-6}
 
 Pop uses pitch slides ("scoops" up to a note, "falls" off a note, slides between pitches) extensively. These aren't accidental — they're stylistic markers that distinguish pop from classical (where strict pitch accuracy is required).
 

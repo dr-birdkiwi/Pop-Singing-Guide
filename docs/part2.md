@@ -1,6 +1,6 @@
 # Part 2: The Pop Sound
 
-## 2.1 The Core Paradox
+## 2.1 The Core Paradox {#s2-1}
 
 The defining truth of pop singing:
 
@@ -14,7 +14,7 @@ The sound should *feel* conversational and personality-driven to the listener �
 
 This is the most important framing in this whole guide. Every other technique element exists in service of this paradox.
 
-## 2.2 The Megaphone — Space, Larynx, Jaw
+## 2.2 The Megaphone — Space, Larynx, Jaw {#s2-2}
 
 Pop production has a characteristic acoustic shape that's different from classical singing.
 
@@ -73,7 +73,7 @@ A *wide, horizontal, spread smile* — corners of the mouth pulled back, teeth b
 
 If you've been told "smile while you sing," check what the cue is actually asking you to do. A small inner lift = fine. A wide horizontal grin = problem. For high notes especially, your mouth shape generally wants to be *taller than wide* (more vertical opening, less horizontal stretch) — which is the opposite of a spread smile.
 
-## 2.3 Vowels — Speech-Like in Perception, Modified in Execution
+## 2.3 Vowels — Speech-Like in Perception, Modified in Execution {#s2-3}
 
 Vowels are where a lot of pop technique lives. The basic principle:
 
@@ -126,7 +126,7 @@ Knowing which strategy you're using — and why — matters. Defaulting to widen
 
 This is one of the things that benefits enormously from teacher feedback. The "right" amount of modification is subtle and varies by singer, vowel, and pitch. A teacher can hear when you're under-modifying (still splatting) or over-modifying (the word sounds too distorted).
 
-## 2.4 Onsets — How a Note Starts
+## 2.4 Onsets — How a Note Starts {#s2-4}
 
 The way you start a note is called the **onset**, and pop uses a much wider palette than classical singing.
 
@@ -155,7 +155,7 @@ Pick a single sustained note in your comfortable mid-range. Sing it on "ah" thre
 
 Listen to a recording. Can you hear the difference? Can you produce each on demand? This awareness is foundational — once you can choose your onset deliberately, you have one of the most expressive tools in pop.
 
-## 2.5 Twang — The Mouthpiece of the Megaphone
+## 2.5 Twang — The Mouthpiece of the Megaphone {#s2-5}
 
 If there's one technical concept in pop singing that produces the most dramatic results in the shortest time, it's **twang**.
 

@@ -6,7 +6,7 @@ Pop developed alongside the microphone. Pre-microphone vocal traditions (opera, 
 
 If you're singing pop without thinking about your microphone, you're missing a major piece of the technique.
 
-## 6.1 The Proximity Effect
+## 6.1 The Proximity Effect {#s6-1}
 
 Most live-performance microphones (and many studio microphones) are **cardioid**, meaning they pick up sound mainly from in front and reject sound from behind. Cardioid microphones have a property called the **proximity effect**: when you sing very close to the microphone (within about 1–2 inches), they boost low-frequency content significantly — typically 6 dB or more in the low-bass region.
 
@@ -18,7 +18,7 @@ Practically, this means:
 
 This is why pop singers don't need to manufacture "chest voice darkness" with their throats. The mic gives them low-end weight for free, if they use it.
 
-## 6.2 Distance Modulation
+## 6.2 Distance Modulation {#s6-2}
 
 The single most important mic technique skill: **moving the mic to manage dynamics.**
 
@@ -30,7 +30,7 @@ This isn't just about avoiding distortion — it's about controlling dynamic ran
 
 Watch any skilled live pop performer. They're constantly adjusting mic distance. It's a learned skill — it should become automatic.
 
-## 6.3 Mic Angle and Off-Axis Technique
+## 6.3 Mic Angle and Off-Axis Technique {#s6-3}
 
 Singing directly into the front of the mic (on-axis) gives the strongest signal but also picks up the most plosive air (P, B sounds) and sibilance (S, Z sounds).
 
@@ -38,7 +38,7 @@ For loud or sibilant moments, **angling the mic slightly off-axis** — not poin
 
 Singers also commonly *roll their head slightly* or sing across the top of the mic (rather than directly into it) to manage hot moments.
 
-## 6.4 Live vs. Studio Microphone Technique
+## 6.4 Live vs. Studio Microphone Technique {#s6-4}
 
 This is a deep topic, but a quick orientation:
 

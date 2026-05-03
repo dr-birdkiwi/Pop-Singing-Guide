@@ -1,6 +1,6 @@
 # Part 4: Breath and Power
 
-## 4.1 The Powerlifter's Brace, Not the Marathoner's Flow
+## 4.1 The Powerlifter's Brace, Not the Marathoner's Flow {#s4-1}
 
 This is where pop diverges most sharply from classical breath teaching, and where a lot of crossover singers get confused.
 
@@ -58,7 +58,7 @@ If you have access to belt-range repertoire (a song with a chorus that sits at o
 
 The engagement should feel like preparation, not strain. Like a martial artist setting their stance before throwing a punch.
 
-## 4.2 Anchoring
+## 4.2 Anchoring {#s4-2}
 
 We touched on this in the twang section, but it deserves expansion.
 
@@ -83,7 +83,7 @@ When you sing a powerful note, ask yourself: **where do I feel the work?**
 
 This is a useful real-time check during practice.
 
-## 4.3 The Over-Breathing Trap
+## 4.3 The Over-Breathing Trap {#s4-3}
 
 Already mentioned in section 1.3, but worth a dedicated callout because it's such a common beginner trap.
 

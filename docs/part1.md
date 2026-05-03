@@ -1,6 +1,6 @@
 # Part 1: Foundations
 
-## 1.1 What the Voice Physically Is
+## 1.1 What the Voice Physically Is {#s1-1}
 
 Before we talk about technique, a brief tour of the instrument. Skip this section if you've covered it before — but a lot of intermediate singers have shaky foundations here, and good intuition about the physical instrument prevents a lot of confusion later.
 
@@ -20,7 +20,7 @@ A useful mental model: the vocal folds are like the reed of a saxophone — they
 - **You can directly feel your breath system and your tongue/jaw/lip articulators.** This is where most useful sensation-based feedback comes from.
 - **Resonance sensations (buzz in the face, ring in the head) are real but indirect.** Sound isn't actually resonating in your cheekbones — that's sympathetic vibration in surrounding tissues that happens *because* the tract is shaped well. The sensation is useful as feedback but doesn't describe what's actually producing the sound.
 
-## 1.2 Posture and Alignment
+## 1.2 Posture and Alignment {#s1-2}
 
 Posture is the most underrated technique element. Bad alignment quietly breaks everything downstream — breath, larynx position, tongue freedom, jaw release.
 
@@ -55,7 +55,7 @@ You don't need to be rigid — singers who try to "hold good posture" often look
 - Yoga, Alexander Technique, and Feldenkrais are all helpful for singers; pick whichever appeals
 - If you have chronic forward head posture or tight upper back, mention it to your teacher — they can give you targeted release work
 
-## 1.3 Breathing — The Basics
+## 1.3 Breathing — The Basics {#s1-3}
 
 Before we get to the powerlifter's brace described later in the guide (which is the specific high-pressure breath used for belt and heavy mix), you need the basic foundation.
 
@@ -105,7 +105,7 @@ We'll get much more specific about this in Part 4 (Breath and Power). For now, j
 - Take in moderate (not maximal) air on inhale
 - Release air with some sense of muscular engagement in the lower torso, not passive collapse and not "diaphragm pushing"
 
-## 1.4 Finding Your Range and Your Passaggio
+## 1.4 Finding Your Range and Your Passaggio {#s1-4}
 
 Two things every singer should know about their own voice: where their range sits, and where their register transitions are.
 
@@ -160,7 +160,7 @@ That zone — usually 2–4 semitones wide — is your passaggio. The note where
 
 **This will take a few sessions to map accurately**, and your teacher can help you locate it more precisely than self-experimentation. It's worth knowing because so much of pop singing happens *in* this zone — the choruses you struggle with are almost always sitting right in your passaggio.
 
-## 1.5 Warming Up
+## 1.5 Warming Up {#s1-5}
 
 A real warm-up routine, not just a concept. Plan for 10–15 minutes before serious practice or performance. The goals: increase blood flow to the laryngeal muscles, gently stretch the folds through their range, wake up your breath system, and check in with how your voice is today.
 

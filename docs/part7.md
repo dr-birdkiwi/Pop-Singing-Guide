@@ -1,6 +1,6 @@
 # Part 7: Practice and Progress
 
-## 7.1 Structuring a Practice Session
+## 7.1 Structuring a Practice Session {#s7-1}
 
 A productive solo practice session has shape. Here's a template that works for most serious learners; adapt it to your needs and your teacher's recommendations.
 
@@ -26,7 +26,7 @@ A productive solo practice session has shape. Here's a template that works for m
 - **Skipping cool-down.** Often skipped, but matters for voice longevity.
 - **Practicing only what you're already good at.** You're not building skill that way. Spend at least some time at the edge of your ability.
 
-## 7.2 Daily, Weekly, Monthly Rhythms
+## 7.2 Daily, Weekly, Monthly Rhythms {#s7-2}
 
 Long-term technique development needs varied rhythms.
 
@@ -50,7 +50,7 @@ Long-term technique development needs varied rhythms.
 - Identify the next layer of focus with your teacher.
 - Notice if you're stuck on something — sometimes a different exercise or angle is needed.
 
-## 7.3 Recording and Listening Back
+## 7.3 Recording and Listening Back {#s7-3}
 
 You cannot accurately hear yourself sing in real time. The voice you hear inside your head — through bone conduction and internal resonance — is not the voice the listener hears. To develop, you have to record yourself.
 
@@ -64,7 +64,7 @@ You cannot accurately hear yourself sing in real time. The voice you hear inside
 
 **This is uncomfortable.** Most singers hate hearing themselves recorded. It's a normal reaction; push through it. The discomfort is mostly a mismatch between the inner voice you're used to and the actual recorded voice. Within a few weeks of regular listening, you'll calibrate and find it useful rather than horrifying.
 
-## 7.4 Signs of Progress
+## 7.4 Signs of Progress {#s7-4}
 
 Progress in singing is slow, non-linear, and often invisible to you while it's happening. Things to look for:
 
@@ -86,7 +86,7 @@ Progress in singing is slow, non-linear, and often invisible to you while it's h
 - Stamina for full performances or sets
 - Vocal health under load
 
-## 7.5 Signs of Trouble
+## 7.5 Signs of Trouble {#s7-5}
 
 Some signs that something is going wrong and needs attention from your teacher (or, in serious cases, a laryngologist):
 

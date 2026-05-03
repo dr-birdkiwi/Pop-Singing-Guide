@@ -2,7 +2,7 @@
 
 The technique in this guide assumes a reasonably healthy instrument. Vocal health logistics are not separate from technique — they're foundational.
 
-## 8.1 Hydration
+## 8.1 Hydration {#s8-1}
 
 Your vocal folds vibrate hundreds of times per second when you sing. Hydrated, mucus-coated folds vibrate efficiently; dry folds don't. The hydration that matters for the voice is *systemic* — water you drink that eventually reaches the laryngeal tissues. Drinking water doesn't directly hit the vocal folds (anything you swallow goes down the esophagus, not the trachea).
 
@@ -20,7 +20,7 @@ Your vocal folds vibrate hundreds of times per second when you sing. Hydrated, m
 - Air travel (very drying — flights are notoriously hard on voices)
 - Dry indoor air, especially with central heating in winter
 
-## 8.2 Sleep
+## 8.2 Sleep {#s8-2}
 
 The voice is sensitive to sleep deprivation in ways most non-singers don't realize. Tired voices have:
 - Reduced range
@@ -31,7 +31,7 @@ The voice is sensitive to sleep deprivation in ways most non-singers don't reali
 
 If you have an important singing event, prioritize sleep the nights leading up to it.
 
-## 8.3 Reflux
+## 8.3 Reflux {#s8-3}
 
 Laryngopharyngeal reflux (LPR) — stomach acid traveling up to the larynx — is extremely common in singers and often goes undiagnosed. Unlike classic acid reflux (heartburn), LPR often has no chest symptoms. Signs include:
 
@@ -45,7 +45,7 @@ If you suspect reflux, see a laryngologist or a gastroenterologist. Treatment ca
 
 This is genuinely worth investigating if you have unexplained vocal issues. Reflux is a common silent saboteur of voices.
 
-## 8.4 Allergies and Sinus Issues
+## 8.4 Allergies and Sinus Issues {#s8-4}
 
 Allergic inflammation affects the voice through:
 - Nasal congestion (changes resonance)
@@ -54,7 +54,7 @@ Allergic inflammation affects the voice through:
 
 If you have seasonal or chronic allergies, manage them. Talk to a doctor about allergy treatment that doesn't dry out your voice (some antihistamines are very drying; newer ones less so).
 
-## 8.5 The "Tired Voice" vs. "Damaged Voice" Distinction
+## 8.5 The "Tired Voice" vs. "Damaged Voice" Distinction {#s8-5}
 
 Knowing when to push through and when to stop matters.
 
@@ -73,7 +73,7 @@ Knowing when to push through and when to stop matters.
 
 **The general rule:** vocal fatigue is normal occasionally; vocal pain is not. Singing should not hurt. If it does, stop and consult your teacher or a doctor.
 
-## 8.6 Warm-Up and Cool-Down Around Performance
+## 8.6 Warm-Up and Cool-Down Around Performance {#s8-6}
 
 For a performance:
 
@@ -84,7 +84,7 @@ For a performance:
 - Cool down after — gentle "ng" slides and lip trills for 2–3 minutes
 - After a heavy performance, vocal rest for an hour or more is wise — limited talking, no shouting
 
-## 8.7 When to See a Specialist
+## 8.7 When to See a Specialist {#s8-7}
 
 If you have unexplained or persistent vocal issues, see a **laryngologist** (an ENT specializing in voice). Many cities have specialized voice clinics for performers. A laryngologist can scope your folds (a quick procedure with a small camera) and tell you exactly what's happening.
 
